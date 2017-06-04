@@ -1,2 +1,5 @@
-It's still a work in progress project.
-But Feel free to fork or clone this beautiful photo gallery design which is made by utilizing the Bootstap 3 library so its responsive to various devices.
+•A photo gallery designed with the help of Bootstrap Library.
+•Uses Font-Awesome Icons.
+•Responsive to various devices.
+•Made with passion bY - Jibin Philipose
+
